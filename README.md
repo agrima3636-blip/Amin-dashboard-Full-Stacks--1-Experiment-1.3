@@ -13,3 +13,10 @@ Defined approach :
  Step 5: Ensure the layout adjusts properly on smaller screen sizes so the dashboard works well on mobile devices.
  Step 6: Add a light and dark mode option and save the user’s selected theme for future visits.
  Step 7: Test the dashboard in a web browser to verify that all sections, responsiveness, and theme switching work smoothly.
+
+Learning Outcomes : 
+Understand the basic structure of an admin dashboard layout.
+Use HTML to organize different sections of a webpage.
+Apply CSS to style a clean and responsive card-based layout.
+Implement light and dark theme switching for better user experience.
+Store user preferences using local storage.
